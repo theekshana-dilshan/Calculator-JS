@@ -66,43 +66,121 @@ main{
     color: white;
 }
 
+#calSection>span:nth-child(1){
+    border-color: #c5c5c5;
+}
+#calSection>span:nth-child(1):hover{
+    background-color: grey;
+    color: black;
+}
+
 #calSection>span:nth-child(3){
     background-color: #070707;
+}
+
+#calSection>span:nth-child(3):hover{
+    border-color: #ffa1a1;
 }
 
 #calSection>span:nth-child(4){
     background-color: #070707;
 }
 
+#calSection>span:nth-child(4):hover{
+    border-color: #ffa1a1;
+}
+
 #calSection>span:nth-child(5){
     background-color: #070707;
+}
+
+#calSection>span:nth-child(5):hover{
+    border-color: #ffa1a1;
+}
+
+#calSection>span:nth-child(6):hover{
+    background-color: #faa5a5;
+    color: black;
 }
 
 #calSection>span:nth-child(7){
     background-color: #070707;
 }
 
+#calSection>span:nth-child(7):hover{
+    border-color: #ffa1a1;
+}
+
 #calSection>span:nth-child(8){
     background-color: #070707;
+}
+
+#calSection>span:nth-child(8):hover{
+    border-color: #ffa1a1;
 }
 
 #calSection>span:nth-child(9){
     background-color: #070707;
 }
 
+#calSection>span:nth-child(9):hover{
+    border-color: #ffa1a1;
+}
+
+#calSection>span:nth-child(10):hover{
+    background-color: #faa5a5;
+    color: black;
+}
+
 #calSection>span:nth-child(11){
     background-color: #070707;
+}
+
+#calSection>span:nth-child(11):hover{
+    border-color: #ffa1a1;
 }
 
 #calSection>span:nth-child(12){
     background-color: #070707;
 }
 
+#calSection>span:nth-child(12):hover{
+    border-color: #ffa1a1;
+}
+
 #calSection>span:nth-child(13){
     background-color: #070707;
 }
 
+#calSection>span:nth-child(13):hover{
+    border-color: #ffa1a1;
+}
+
+#calSection>span:nth-child(14):hover{
+    background-color: #faa5a5;
+    color: black;
+}
+
+#calSection>span:nth-child(15):hover{
+    background-color: #faa5a5;
+    color: black;
+}
+
 #calSection>span:nth-child(16){
     background-color: #070707;
+}
+
+#calSection>span:nth-child(16):hover{
+    border-color: #ffa1a1;
+}
+
+#calSection>span:nth-child(17):hover{
+    background-color: #faa5a5;
+    color: black;
+}
+
+#calSection>span:nth-child(18):hover{
+    background-color: #faa5a5;
+    color: black;
 }
 
